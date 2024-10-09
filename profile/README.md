@@ -7,17 +7,17 @@ Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedic
 - Support and grow a diverse community of contributors.
 - Facilitate knowledge sharing and mentorship.
 
-## How to Join
+## How to Join 🤝
 1. **Explore our Projects**: Check out our repositories to find projects that interest you.
 2. **Join a SIG**: Participate in one of our Special Interest Groups to collaborate with like-minded individuals.
 3. **Contribute**: Submit issues, pull requests, or join discussions to contribute to our projects.
 
-## Get Involved
+## Get Involved 🌟
 - **Discussions**: Join our [Discussion Forum](https://github.com/orgs/opensource-sig/discussions) to share ideas and ask questions.
 - **Meetings**: Participate in our regular SIG meetings. Check the [calendar](#) for upcoming events.
 - **Social Media**: Follow us on [Twitter](#), [LinkedIn](#), and [Facebook](#) for updates.
 
-## Contact Us
+## Contact Us 📬
 For any inquiries, please reach out to us at [opensource@brigadeworks.com](mailto:opensource@brigadeworks.com).
 
 Join us in building a strong and inclusive open-source community!
