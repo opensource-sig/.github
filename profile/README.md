@@ -2,7 +2,7 @@
 
 Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedicated to fostering collaboration and innovation through Special Interest Groups (SIGs) and a vibrant open-source community.
 
-## Our Mission
+## Our Mission 🎯
 - Promote open-source development and collaboration.
 - Support and grow a diverse community of contributors.
 - Facilitate knowledge sharing and mentorship.
