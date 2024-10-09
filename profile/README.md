@@ -13,7 +13,7 @@ Welcome to the Opensource SIGs & Community GitHub organization! We are dedicated
 3. **Contribute**: Submit issues, pull requests, or join discussions to contribute to our projects.
 
 ## Get Involved
-- **Discussions**: Join our [discussion forum](https://github.com/opensource-org/) to share ideas and ask questions.
+- **Discussions**: Join our [Discussion Forum](https://github.com/orgs/opensource-sig/discussions) to share ideas and ask questions.
 - **Meetings**: Participate in our regular SIG meetings. Check the [calendar](#) for upcoming events.
 - **Social Media**: Follow us on [Twitter](#), [LinkedIn](#), and [Facebook](#) for updates.
 
