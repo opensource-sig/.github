@@ -1,5 +1,9 @@
 # Opensource SIGs & Community 👋
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/orgs/opensource-sig/discussions)
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/osponews)
+
 Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedicated to fostering collaboration and innovation through Special Interest Groups (SIGs) and a vibrant open-source community.
 
 ## Our Mission 🎯
