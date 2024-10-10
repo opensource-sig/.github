@@ -4,7 +4,7 @@
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/orgs/opensource-sig/discussions)
 [![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/osponews)
 
-Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedicated to fostering collaboration and innovation through Special Interest Groups (SIGs) and a vibrant open-source community.
+Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedicated to fostering collaboration and innovation through Special Interest Groups (SIGs) and a vibrant open-source community. **Opensource SIGs & Community** is formed by it's **Community** & **Brigadeworks Technologies**.
 
 ## Our Mission 🎯
 - Promote open-source development and collaboration.
