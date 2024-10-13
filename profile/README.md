@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-f27596.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/orgs/opensource-sig/discussions)
-[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-e5ad43)](https://www.getrevue.co/profile/osponews)
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-e5ad43)](https://opensource-sig.hashnode.dev/)
 [![License](https://img.shields.io/badge/OSPO-Discord-0077B5)](https://discord.com/invite/WG9xtJnUHK)
 [![Slack](https://img.shields.io/badge/OSPO-Slack-E01E5A)](https://opensource-sig.slack.com/)
 [![License](https://img.shields.io/badge/OSPO-LinkedIn-0077B5)](https://www.linkedin.com/groups/14542131/)
