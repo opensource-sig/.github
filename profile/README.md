@@ -8,7 +8,7 @@
 [![Slack](https://img.shields.io/badge/OSPO-Slack-E01E5A)](https://opensource-sig.slack.com/)
 [![License](https://img.shields.io/badge/OSPO-LinkedIn-0077B5)](https://www.linkedin.com/groups/14542131/)
 
-Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedicated to fostering collaboration and innovation through Special Interest Groups (SIGs) and a vibrant open-source community. **Opensource SIGs & Community** is formed by it's **Community** & **Brigadeworks Technologies**.
+Welcome to the **Opensource SIGs & Community** GitHub organization! We are dedicated to fostering collaboration and innovation through Special Interest Groups (SIGs) and a vibrant open-source community. **Opensource-SIGs** is formed by it's **Community** & **Brigadeworks Technologies**.
 
 ## Our Mission 🎯
 - Promote open-source development and collaboration.
